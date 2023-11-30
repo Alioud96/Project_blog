@@ -1,4 +1,4 @@
-                                              Une Application blog
+                          APPLICATION DE BLOG
 
 
 Développper une application de blog sur django description
@@ -30,10 +30,10 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-    Installation de Django
+ Installation de Django
 
 Utilisez pip, le gestionnaire de packages Python :
-pip3 install Django
+pip3 install django
 
     Vérification de l'installation
 
@@ -45,7 +45,7 @@ python -m django --version
 
 Lancez alors la commande :
 
-django-admin startproject monprojet
+django-admin startproject monprojett
 
 Cela créera le squelette d'une application Django.
 
